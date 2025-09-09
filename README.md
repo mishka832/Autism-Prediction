@@ -20,12 +20,6 @@ This project predicts autism likelihood using machine learning models on a Kaggl
 - Accuracy: 83%
 - Recall: 69.44%
 - Precision: 60.9%
-
-## Repository Structure
-- `notebook/` → Jupyter notebook with full workflow
-- `results/` → Model performance plots (confusion matrix, etc.)
-- `requirements.txt` → Dependencies
-
 ## How to Run
 ```bash
 git clone https://github.com/mishka832/Autism-Prediction.git
